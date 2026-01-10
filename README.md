@@ -123,6 +123,21 @@ flutter run
   "risk_score": 0.23
 }
 ```
+📁 Bulk CSV Fraud Detection – How to Upload & Test
+
+FraudShield AI allows users to perform bulk fraud detection by uploading a CSV file containing multiple transaction records.
+
+🔹 Step 1: Prepare Your CSV File
+
+Your CSV file must contain the following columns exactly:
+
+amount,amount_deviation,time_anomaly,location_distance,merchant_novelty,transaction_frequency
+
+📄 Sample CSV (transactions.csv)
+amount,amount_deviation,time_anomaly,location_distance,merchant_novelty,transaction_frequency
+1200,0.3,1,2.5,0,5
+50000,4.2,1,150,1,25
+300,0.1,0,1.2,0,2
 
 ## Input Features
 
