@@ -28,6 +28,8 @@ fraudguard/
 more info about this project
 https://drive.google.com/file/d/1odXTz88cXxAIXUCSanVSfe-WNNyRN-ua/view?usp=drive_link
 
+Devlopement - https://fraudguard-ai.netlify.app
+
 ## License
 
 Hackathon Project - Educational Use
